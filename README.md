@@ -22,7 +22,7 @@ Most of my recent work has focused on healthcare data systems, where reliability
 
 | Project | What it does | Stack |
 |---|---|---|
-| [FindMyGig](https://github.com/aditijoshi613/FindMyGig) | Agentic live music discovery — finds, ranks, and explains venues near you | LangGraph, Spotify API, Streamlit |
+| [FindMyGig](https://github.com/aditijoshi613/FindMyGig) | Agentic live music discovery - finds, ranks, and explains venues near you | LangGraph, Spotify API, Streamlit |
 | [Big Data Stock System](https://github.com/aditijoshi613/Big-Data-System-for-Stock-Market-Data) | End-to-end S&P 500 anomaly detection pipeline | MongoDB, Airflow, Dask, Docker |
 | [Patient Survival Prediction](https://github.com/aditijoshi613/Patient-Survival-Prediction) | Classification model for ICU risk stratification | PyTorch, Scikit-Learn |
 
@@ -30,8 +30,8 @@ Most of my recent work has focused on healthcare data systems, where reliability
 
 ## Background
 
-MS Information Management — University of Maryland
-BTech — IIT Bombay
+MS Information Management - University of Maryland
+BTech - IIT Bombay
 
 Previously: Chicago Mercantile Exchange · Morgan Stanley
 
